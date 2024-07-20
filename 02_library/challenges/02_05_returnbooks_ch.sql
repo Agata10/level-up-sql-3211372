@@ -38,9 +38,3 @@ Barcode = 8730298424)
 ReturnedDate is null) 
 
 
-SELECT
-*
-from
-Loans
-WHERE
-ReturnedDate =
